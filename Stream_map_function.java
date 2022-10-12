@@ -6,9 +6,9 @@
 import java.util.*; 
 import java.util.stream.Collectors; 
 
-class GFG { 
+class Solution { 
 
-	// Driver code 
+	/
 	public static void main(String[] args) 
 	{ 
 
@@ -16,8 +16,8 @@ class GFG {
 						+ "the function is : "); 
 
 		// Creating a list of Integers 
-		List<String> list = Arrays.asList("geeks", "gfg", "g", 
-										"e", "e", "k", "s"); 
+		List<String> list = Arrays.asList("ritu", "manav", "m", "g", "e", "h", "s", "a"); 
+										
 
 		// Using Stream map(Function mapper) to 
 		// convert the Strings in stream to 
